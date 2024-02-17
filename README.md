@@ -1,6 +1,6 @@
-# Python Libraries for Data Science Part 1 (Course)
+## Python Libraries for Data Science Part 1 (Course)
 
-## Course Assignments
+### Course Assignments
 
 1. Numpy. Pandas.  [Practical assignment #1](LDS_Task_1_Numpy_Pandas.ipynb)
 
